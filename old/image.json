@@ -1,0 +1,13 @@
+var images =
+  [
+    "https://static.emoryhuang.cn/img/1452941199-banner.jpg",
+    "https://static.emoryhuang.cn/img/1023243050-banner.jpg",
+    "https://static.emoryhuang.cn/img/1284559837-banner.jpg",
+    "https://static.emoryhuang.cn/img/340778779-banner.jpg",
+    "https://static.emoryhuang.cn/img/1384140617-banner.jpg",
+    "https://static.emoryhuang.cn/img/1504958816-banner.jpg",
+    "https://static.emoryhuang.cn/img/1639121736-banner.jpg",
+    "https://static.emoryhuang.cn/img/2132319733-banner.jpg",
+    "https://static.emoryhuang.cn/img/2058194162-banner.jpg",
+    "https://static.emoryhuang.cn/img/186594021-banner.jpg"
+  ]
